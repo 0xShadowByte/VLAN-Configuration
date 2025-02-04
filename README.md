@@ -1,8 +1,8 @@
-# VLAN-Configuration
+# Basic Data and Voice VLAN Setup
 
 ### Objective
   
-To simulate a small office network with three wired computers, one printer, and a wireless laptop, all connected to the same LAN. The router will provide DHCP to all devices, and you will test connectivity between them.
+To set up an office network with four VLANs: one for regular office staff, one for HR, one for IT and one for VoIP (Voice over IP) devices like IP phones. A core switch will connect two access switches, and you will test connectivity between them.
 
 ### Skills Learned
 
