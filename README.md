@@ -10,7 +10,7 @@ To set up an office network with four VLANs: one for regular office staff, one f
 - Configuration & Management: VLAN setup, static IP assignment, trunk port setup.
 - Hands-On Skills: Using Cisco Packet Tracer, connecting devices, configuring IP phones.
 - Troubleshooting & Testing: Verifying connectivity, debugging VLAN issues.
-- Security & Design: Controlling VLAN access, planning for DHCP and switch security.
+- Security & Design: Controlling VLAN access
 
 ### Tools Used
 
